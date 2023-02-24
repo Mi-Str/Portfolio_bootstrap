@@ -12,4 +12,4 @@ This app will run in the browser, created using HTML, CSS and Bootstrap>
 
 
 ## Link to deployment
-[Portfolio]
+[Portfolio](https://mi-str.github.io/Portfolio_bootstrap/)
