@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css?family=Kalam:400,500,700');
+
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Kalam', sans-serif;
+    color: #222;
+}
+
+.navbar {
+    padding: 10px;
+}
+
+.navbar-nav li{
+    padding-right:15px;
+}
+
+.nav-link {
+    font-size: 20px !important;
+}
+
+.jumbotron{
+    padding: 20px;
+    border-radius: 0;
+}
+
+.jumbotron h1{
+    text-shadow: 2px 2px 10px #D7A1F9 ;
+}
+
+.padding {
+    padding-bottom: 30px;
+}
+
+
+.my-4{
+    border-top: 1px dashed #b4b4b4;
+}
+
+.experience{
+    width: 75%;
+    margin: 0 auto;
+    padding-top:30px;
+}
+
+.experience hr{
+    border-top: 2px solid #b4b4b4;
+    width: 95%;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+
+
+
+footer{
+    background-color: #3f3f3f;
+    color: #d5d5d5;
+    padding-top: 30px ;
+
+}
+
+hr.light {
+    border-top: 1px solid #d5d5d5;
+    width:75%;
+}
+
+/* *****Media Query****** */
+
+@media (max-width: 768px){
+
+.display-4 {
+    font-size: 250%;
+    }
+
+.padding {
+        padding-bottom: 10px;
+    }
+
+ #about {
+        text-align: center;
+    }
+
+}
+
+
+
